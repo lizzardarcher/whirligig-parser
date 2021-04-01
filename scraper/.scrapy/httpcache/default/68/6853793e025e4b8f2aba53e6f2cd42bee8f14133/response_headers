@@ -1,0 +1,12 @@
+Server: nginx
+Date: Tue, 30 Mar 2021 13:32:26 GMT
+Content-Type: text/plain; charset=utf-8
+Set-Cookie: u=2omh4pgq.lluh9g.tx05ldutgt00; path=/; expires=Fri, 26-Mar-2038 13:32:26 GMT; HttpOnly; Max-Age=536112000; secure; domain=.avito.ru
+Set-Cookie: v=1617111146; path=/; expires=Tue, 30-Mar-21 14:02:26 GMT; HttpOnly; Max-Age=1800; secure; domain=.avito.ru; SameSite=Lax
+Etag: W/"606324ce-d51"
+Last-Modified: Tue, 30 Mar 2021 13:17:02 GMT
+X-Envoy-Upstream-Service-Time: 5
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: allow-from https://pro.avito.ru/
+Content-Encoding: gzip

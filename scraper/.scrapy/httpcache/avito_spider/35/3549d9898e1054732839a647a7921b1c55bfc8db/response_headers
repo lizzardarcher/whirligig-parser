@@ -1,0 +1,21 @@
+Accept-Ch: Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT
+Accept-Ch-Lifetime: 31536000
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy: connect-src https://*.cdn.ngenix.net https://auto.ru https://favicon.yandex.net https://frontend.vh.yandex.ru https://log.strm.yandex.ru https://mc.admetrica.ru https://mc.yandex.com https://mc.yandex.ru https://thequestion.ru https://www.kinopoisk.ru https://www.maximonline.ru https://yandex.ru https://yastat.net https://yastatic.net wss://push.yandex.ru;default-src https://yastat.net https://yastatic.net;font-src https://yastatic.net;frame-src https://mc.yandex.md https://mc.yandex.ru https://yandex.ru;img-src 'self' data: https://*.verify.yandex.ru https://auto.ru https://avatars.mds.yandex.net https://favicon.yandex.net https://mc.admetrica.ru https://mc.yandex.com https://mc.yandex.ru https://strm.yandex.net https://thequestion.ru https://www.kinopoisk.ru https://www.maximonline.ru https://yabs.yandex.ru https://yandex.ru https://yastatic.net;media-src blob: https://*.cdn.ngenix.net;report-uri https://csp.yandex.net/csp?project=morda&from=morda.big.ru&showid=1617109884.82827.94896.105373&h=prestable-morda-vla-yp-77&csp=new&date=20210330&yandexuid=1537348231617109884;script-src 'unsafe-inline' https://mc.yandex.com https://mc.yandex.ru https://yandex.ru https://yastatic.net;style-src 'unsafe-inline' https://yastatic.net
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 30 Mar 2021 13:11:24 GMT
+Expires: Tue, 30 Mar 2021 13:11:25 GMT
+Last-Modified: Tue, 30 Mar 2021 13:11:25 GMT
+Nel: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Set-Cookie: yp=1619701885.ygu.1; Expires=Fri, 28-Mar-2031 13:11:24 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: mda=0; Expires=Wed, 28-Jul-2021 13:11:24 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: yandex_gid=54; Expires=Thu, 29-Apr-2021 13:11:24 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: yandexuid=1537348231617109884; Path=/; Domain=.yandex.ru; Expires=Fri, 28-Mar-2031 13:11:24 GMT; Secure
+Set-Cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Thu, 30 Mar 2023 13:11:24 GMT
+Set-Cookie: is_gdpr_b=CM39VxCAJigC; Path=/; Domain=.yandex.ru; Expires=Thu, 30 Mar 2023 13:11:24 GMT
+Set-Cookie: i=8roOSuAGXWrhnuI23s1+dIJ+vCNQmxvnjn0CeAGhtbyYom0wy20K0xIeMfuhWJSZC++2G8x5bjsZDUn0NgVAIwHFwS8=; Expires=Thu, 30-Mar-2023 13:11:24 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
