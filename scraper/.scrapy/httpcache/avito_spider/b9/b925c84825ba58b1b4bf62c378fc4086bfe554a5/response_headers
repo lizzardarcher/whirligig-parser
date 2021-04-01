@@ -1,7 +1,0 @@
-Server: nginx
-Date: Tue, 30 Mar 2021 13:07:21 GMT
-Content-Type: text/html
-Location: https://www.avito.ru/robots.txt
-X-Frame-Options: SAMEORIGIN
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff

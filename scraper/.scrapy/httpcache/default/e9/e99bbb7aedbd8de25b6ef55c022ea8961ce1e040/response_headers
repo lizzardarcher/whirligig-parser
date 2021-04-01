@@ -1,7 +1,0 @@
-Server: nginx
-Date: Tue, 30 Mar 2021 13:37:32 GMT
-Content-Type: text/html; charset=utf-8
-Content-Encoding: gzip
-X-Envoy-Upstream-Service-Time: 26
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
