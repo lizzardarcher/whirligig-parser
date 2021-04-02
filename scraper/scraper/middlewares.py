@@ -22,7 +22,7 @@ class UserAgentRotatorMiddleware(UserAgentMiddleware):
     def process_request(self, request, spider):
         try:
             self.user_agent = random.choice(self.userAgentList)
-            print(' *** user agent is'+self.user_agent+' *** ')
+            print(' *** user agent is' + self.user_agent + ' *** ')
             request.headers.setdefault('User-Agent', self.user_agent)
         except IndexError:
             logging.error("Couldn't fetch user agent")
