@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda68750-86d3-4c03-b79d-a180207238d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/scraper/scraper/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/scraper/middlewares.py" afterDir="false" />
-    </list>
+    <list default="true" id="bda68750-86d3-4c03-b79d-a180207238d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,16 +114,25 @@
       <option name="presentableId" value="Default" />
       <updated>1616696747384</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1617332866974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617332866974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="25" key="CommitChangelistDialog2" timestamp="1617298793316">
+    <state x="424" y="25" key="CommitChangelistDialog2" timestamp="1617332866261">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="424" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1617298793316" />
+    <state x="424" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1617332866261" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1616749869819">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -150,6 +157,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1616696760334" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1617332873708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1617332873708" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1616749500533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
